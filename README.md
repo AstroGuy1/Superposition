@@ -1,7 +1,7 @@
 # Superposition: A Quantum Mechanics Modeling Software
 
 ## Introduction
-**Superposition** is a comprehensive Python-based tool designed to simulate and visualize quantum systems. This software allows users to solve the Schrödinger equation in one, two, or three dimensions with customizable potentials, adaptive mesh grids, parallel computing capabilities, and advanced visualization features. It is intended for researchers, educators, and students who wish to explore quantum mechanics numerically.
+**Superposition** is an advanced Python-based tool designed to simulate and visualize quantum systems. This software allows users to solve the Schrödinger equation in one, two, or three dimensions with customizable potentials, adaptive mesh grids, parallel computing capabilities, and advanced visualization features. It is intended for researchers, educators, and students who wish to explore quantum mechanics numerically.
 
 ## Features
 - **Dimensional Flexibility**: Solve quantum systems in 1D, 2D, or 3D.
